@@ -1,0 +1,9 @@
+.active {
+
+    background-color: yellow;
+}
+
+.btn {
+    padding: 12px 24px;
+    border-radius: 15px;
+}

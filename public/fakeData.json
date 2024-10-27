@@ -1,0 +1,152 @@
+[
+    {
+        "player_id": 1,
+        "name": "Shakib Al Hasan",
+        "nationality": "Bangladesh",
+        "batting_role": "Left-hand batsman",
+        "bowling_role": "Left-arm spin",
+        "price": 1200000,
+        "image_url": "https://i.ibb.co.com/KFKdSmN/sakin-al-hasan.jpg",
+        "position": "All-rounder"
+    },
+    {
+        "player_id": 2,
+        "name": "Tamim Iqbal",
+        "nationality": "Bangladesh",
+        "batting_role": "Left-hand batsman",
+        "bowling_role": "None",
+        "price": 1000000,
+        "image_url": "https://i.ibb.co.com/F3th0Cw/tamim-iqbal.jpg",
+        "position": "Batsman"
+    },
+    {
+        "player_id": 3,
+        "name": "Mushfiqur Rahim",
+        "nationality": "Bangladesh",
+        "batting_role": "Right-hand batsman",
+        "bowling_role": "None",
+        "price": 1100000,
+        "image_url": "https://i.ibb.co.com/BTmdZdQ/Mushfiqur-Rahim.jpg",
+        "position": "Wicketkeeper"
+    },
+    {
+        "player_id": 4,
+        "name": "Mahmudullah Riyad",
+        "nationality": "Bangladesh",
+        "batting_role": "Right-hand batsman",
+        "bowling_role": "Right-arm medium",
+        "price": 950000,
+        "image_url": "https://i.ibb.co.com/2cMfrcg/Mahmudullah.jpg",
+        "position": "All-rounder"
+    },
+    {
+        "player_id": 5,
+        "name": "Mustafizur Rahman",
+        "nationality": "Bangladesh",
+        "batting_role": "Left-hand batsman",
+        "bowling_role": "Left-arm fast",
+        "price": 1050000,
+        "image_url": "https://i.ibb.co.com/DwkTNHk/Mustafizur-Rahman.jpg",
+        "position": "Bowler"
+    },
+    {
+        "player_id": 6,
+        "name": "Taskin Ahmed",
+        "nationality": "Bangladesh",
+        "batting_role": "Right-hand batsman",
+        "bowling_role": "Right-arm fast",
+        "price": 1000000,
+        "image_url": "https://i.ibb.co.com/71ty1Hf/Taskin-Ahmed.jpg",
+        "position": "Bowler"
+    },
+    {
+        "player_id": 7,
+        "name": "Litton Das",
+        "nationality": "Bangladesh",
+        "batting_role": "Right-hand batsman",
+        "bowling_role": "None",
+        "price": 900000,
+        "image_url": "https://i.ibb.co.com/kQj4d2n/Liton-das.jpg",
+        "position": "Wicketkeeper"
+    },
+    {
+        "player_id": 8,
+        "name": "Mehidy Hasan Miraz",
+        "nationality": "Bangladesh",
+        "batting_role": "Right-hand batsman",
+        "bowling_role": "Right-arm off-spin",
+        "price": 950000,
+        "image_url": "https://i.ibb.co.com/SBjGxMh/Mehidy-Hasan-Miraz.jpg",
+        "position": "All-rounder"
+    },
+    {
+        "player_id": 9,
+        "name": "Afif Hossain",
+        "nationality": "Bangladesh",
+        "batting_role": "Left-hand batsman",
+        "bowling_role": "None",
+        "price": 850000,
+        "image_url": "https://i.ibb.co.com/v14b6fc/Afif-Hossain.jpg",
+        "position": "All-rounder"
+    },
+    {
+        "player_id": 10,
+        "name": "Mohammad Saifuddin",
+        "nationality": "Bangladesh",
+        "batting_role": "Left-hand batsman",
+        "bowling_role": "Right-arm medium-fast",
+        "price": 800000,
+        "image_url": "https://i.ibb.co.com/HHPMQg2/Mohammad-Saifuddin.jpg",
+        "position": "All-rounder"
+    },
+    {
+        "player_id": 11,
+        "name": "Nasum Ahmed",
+        "nationality": "Bangladesh",
+        "batting_role": "Right-hand batsman",
+        "bowling_role": "Left-arm spin",
+        "price": 750000,
+        "image_url": "https://i.ibb.co.com/QXh4f74/Nasum-Ahmed.jpg",
+        "position": "Bowler"
+    },
+    {
+        "player_id": 12,
+        "name": "Najmul Hossain Shanto",
+        "nationality": "Bangladesh",
+        "batting_role": "Left-hand batsman",
+        "bowling_role": "None",
+        "price": 850000,
+        "image_url": "https://i.ibb.co.com/rv3qxTz/Najmul-Hossain-Shanto.jpg",
+        "position": "Batsman"
+    },
+    {
+        "player_id": 13,
+        "name": "Soumya Sarkar",
+        "nationality": "Bangladesh",
+        "batting_role": "Left-hand batsman",
+        "bowling_role": "Right-arm medium",
+        "price": 800000,
+        "image_url": "https://i.ibb.co.com/PTwyvKP/Soumya-Sarkar.jpg",
+        "position": "All-rounder"
+    },
+    {
+        "player_id": 14,
+        "name": "Yasir Ali",
+        "nationality": "Bangladesh",
+        "batting_role": "Right-hand batsman",
+        "bowling_role": "None",
+        "price": 700000,
+        "image_url": "https://i.ibb.co.com/5nwVKq2/Yasir-Ali.jpg",
+        "position": "Batsman"
+    },
+    {
+        "player_id": 15,
+        "name": "Nurul Hasan",
+        "nationality": "Bangladesh",
+        "batting_role": "Right-hand batsman",
+        "bowling_role": "None",
+        "price": 850000,
+        "image_url": "https://i.ibb.co.com/NxXxzNc/Nurul-Hasan.jpg",
+        "position": "Wicketkeeper"
+    }
+]
